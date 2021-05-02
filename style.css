@@ -1,0 +1,38 @@
+div.container {
+    width: 80%;
+    padding: 50px;
+}
+
+header {
+    padding: 0px 12px;
+}
+
+.heading {
+    font-size: 98px;
+}
+
+.font-12 {
+    font-size: 12px;
+}
+
+.blog-main {
+    text-align: justify;
+}
+
+.blue-color {
+    background-color: #2DACB7;
+}
+
+.main-news-header {
+    font-size: 50px;
+}
+
+.indent { 
+    text-indent: 30px; 
+}
+
+.sideways {
+    -webkit-transform: rotate(180deg);
+    writing-mode: vertical-lr;
+    max-height: 100px;
+}
